@@ -1,0 +1,42 @@
+\begin{thebibliography}{1}
+
+\bibitem{picone2002nrlmsise}
+JM~Picone, AE~Hedin, D~Pj Drob, and AC~Aikin.
+\newblock Nrlmsise-00 empirical model of the atmosphere: Statistical
+  comparisons and scientific issues.
+\newblock {\em Journal of Geophysical Research: Space Physics}, Vol. 107, No.
+  A12, pp. SIA--15, 2002.
+
+\bibitem{henderson1976drag}
+Charles~B Henderson.
+\newblock Drag coefficients of spheres in continuum and rarefied flows.
+\newblock {\em AIAA journal}, Vol.~14, No.~6, pp. 707--708, 1976.
+
+\bibitem{prevereaud2016phd}
+{\em Contribution a la modelisation de la rentree atmospherique des debris
+  spatiaux}.
+\newblock PhD thesis, ISAE^^e2^^80^^93SupAero, Touluse, France, 2016.
+
+\bibitem{kimura2018master}
+人工流星の軌道と発光強度に関するパラメータ感度分析.
+\newblock Master's thesis, 首都大学東京大学院修士学位論文, 2018.
+
+\bibitem{park1989nonequilibrium}
+Chul Park.
+\newblock Nonequilibrium hypersonic aerothermodynamics.
+\newblock 1989.
+
+\bibitem{park1988-landau-teller}
+Chul Park.
+\newblock Assessment of a two-temperature kinetic model for dissociating and
+  weakly ionizing nitrogen.
+\newblock {\em Journal of Thermophysics and Heat Transfer}, Vol.~2, No.~1, pp.
+  8--16, 1988.
+
+\bibitem{blottner1971chemically}
+Frederick~Gwynn Blottner, Margaret Johnson, and Molly Ellis.
+\newblock Chemically reacting viscous flow program for multi-component gas
+  mixtures.
+\newblock Technical report, Sandia Labs., Albuquerque, N. Mex., 1971.
+
+\end{thebibliography}
